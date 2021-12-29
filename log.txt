@@ -1,0 +1,13 @@
+D:\lab_git2 (master -> origin)
+? git log
+commit 1e2095722c7f12e06a51b465f7bcee87a130906c (HEAD -> master, origin/master)
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 12:25:01 2021 +0200
+
+    added login
+
+commit d180c1de6408ad3fe74124b7c73647c4d1036563
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 12:22:55 2021 +0200
+
+    first project
