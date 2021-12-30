@@ -1,6 +1,37 @@
 D:\lab_git (master -> origin)
 ? git log
-commit 3b4e52eda237d83b1ed4fd4ad4a568b90ae9db31 (HEAD -> master, origin/master)
+commit 2243ba56f4a28dd1f517897d6639f46a7b3abeea (HEAD -> master, origin/master)
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 12:41:56 2021 +0200
+
+    delete
+
+commit 267ff16d1259acefe52b4e33f1340cf4fe04a37b
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 12:40:42 2021 +0200
+
+    last
+
+commit 8c7b5a5aa6d9fe8a8e7dc09f059fc29eb1302cf5
+Merge: b4c5736 66cd8e1
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 12:38:22 2021 +0200
+
+    Merge branch 'master' of https://github.com/MostafaKhafaji/lab_git
+
+commit b4c5736c8ce77c50a8b0dc93fb031b377b3c3bf2
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 12:38:09 2021 +0200
+
+    last
+
+commit 66cd8e17fa76e485b926bee8d3fee77b121f8795
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 12:14:11 2021 +0200
+
+    added log file
+
+commit 3b4e52eda237d83b1ed4fd4ad4a568b90ae9db31
 Author: MostafaKhafaji <abc@example.com>
 Date:   Wed Dec 29 12:03:21 2021 +0200
 
@@ -29,3 +60,21 @@ Author: elashry <mohamedhossnyelashry@gmail.com>
 Date:   Wed Dec 29 11:29:01 2021 +0200
 
     mohamed_hosni
+
+commit 4f1b8e6867e36a4714c7a297c723a1fd4e45d30f
+Author: khaled_edriss <khaledsamiredriss776@gmail.com>
+Date:   Wed Dec 29 11:07:09 2021 +0200
+
+    Edit 1
+
+commit 68d6970747df72d1b543fb2bc051a09b0f12fca4
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 10:04:42 2021 +0200
+
+    added login function and paragraph
+
+commit 889084ef35f79e150f927f2c076ffc458aef5a5f
+Author: MostafaKhafaji <abc@example.com>
+Date:   Wed Dec 29 09:59:18 2021 +0200
+
+    added the 1st version
